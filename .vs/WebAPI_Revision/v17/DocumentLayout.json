@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40437D91-3332-4FF7-8951-7545A7BD4331}|WebAPI_Revision\\WebAPI_Revision.csproj|c:\\users\\mohamed\\desktop\\webapi_revision\\webapi_revision\\repos dp\\repos classes\\generepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40437D91-3332-4FF7-8951-7545A7BD4331}|WebAPI_Revision\\WebAPI_Revision.csproj|solutionrelative:webapi_revision\\repos dp\\repos classes\\generepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40437D91-3332-4FF7-8951-7545A7BD4331}|WebAPI_Revision\\WebAPI_Revision.csproj|c:\\users\\mohamed\\desktop\\webapi_revision\\webapi_revision\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40437D91-3332-4FF7-8951-7545A7BD4331}|WebAPI_Revision\\WebAPI_Revision.csproj|solutionrelative:webapi_revision\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40437D91-3332-4FF7-8951-7545A7BD4331}|WebAPI_Revision\\WebAPI_Revision.csproj|c:\\users\\mohamed\\desktop\\webapi_revision\\webapi_revision\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40437D91-3332-4FF7-8951-7545A7BD4331}|WebAPI_Revision\\WebAPI_Revision.csproj|solutionrelative:webapi_revision\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40437D91-3332-4FF7-8951-7545A7BD4331}|WebAPI_Revision\\WebAPI_Revision.csproj|c:\\users\\mohamed\\desktop\\webapi_revision\\webapi_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40437D91-3332-4FF7-8951-7545A7BD4331}|WebAPI_Revision\\WebAPI_Revision.csproj|solutionrelative:webapi_revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 54,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\WebAPI_Revision\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_Revision\\Program.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\WebAPI_Revision\\Program.cs",
+              "RelativeToolTip": "WebAPI_Revision\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T16:25:07.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\WebAPI_Revision\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Revision\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\WebAPI_Revision\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "WebAPI_Revision\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEBAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:30:50.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\WebAPI_Revision\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Revision\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\WebAPI_Revision\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "WebAPI_Revision\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:27:00.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneRepos.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\WebAPI_Revision\\Repos DP\\Repos Classes\\GeneRepos.cs",
+              "RelativeDocumentMoniker": "WebAPI_Revision\\Repos DP\\Repos Classes\\GeneRepos.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\WebAPI_Revision\\Repos DP\\Repos Classes\\GeneRepos.cs",
+              "RelativeToolTip": "WebAPI_Revision\\Repos DP\\Repos Classes\\GeneRepos.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:13:58.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
