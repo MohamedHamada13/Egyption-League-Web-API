@@ -9,7 +9,8 @@
 - Authentication & Authorization with JWT
 - Entity Framework Core with SQL Server
 - Use Dependency Injection and generic repository patterns
-- AutoMapper for DTO Mapping and logging for testing
+- Use AutoMapper for Mapping DTOs & Models
+- Use EFC logger for logging actions
 
 ## Technologies Used
 - ASP.NET Core Web API (.NET 8.0)
