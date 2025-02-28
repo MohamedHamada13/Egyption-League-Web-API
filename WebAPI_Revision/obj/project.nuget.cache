@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QZ5JwffwDxQ=",
+  "dgSpecHash": "r4A6I07jN38=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mohamed\\Desktop\\WebAPI_Revision\\WebAPI_Revision\\WebAPI_Revision.csproj",
+  "projectFilePath": "C:\\Users\\mohamed\\Desktop\\Egyption League\\WebAPI_Revision\\WebAPI_Revision.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohamed\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mohamed\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
